@@ -8,6 +8,7 @@ dial_book = {
   "denver" => "303",
   "butte" => "406",
   "seattle" => "206",
+  "saltlakecity" => "315",
   "calgary" => "403"
 }
 
